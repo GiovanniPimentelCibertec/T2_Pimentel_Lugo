@@ -1,0 +1,12 @@
+# Compilados de Maven
+target/
+bin/
+# Configuracion de Eclipse
+.settings/
+.classpath
+.project
+# Otros
+*.class
+*.log
+.metadata/
+Thumbs.db
