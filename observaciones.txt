@@ -1,0 +1,1 @@
+Observacion: archivo creado para la Pregunta 02 de la evaluacion T2 (Working Directory y Staging Area).

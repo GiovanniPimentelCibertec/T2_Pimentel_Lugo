@@ -9,3 +9,6 @@ Repositorio para practicar el control de versiones con Git y GitHub sobre un pro
 
 ## Evidencia T2
 Evaluacion T2 - Tema 3: Control de versiones con Git y GitHub. Alumno: Jan Giovanni Pimentel Lugo (I202336917).
+
+## Control de cambios
+Se gestionaron cambios entre Working Directory, Staging Area y repositorio local usando git status, git diff, git add, git reset y git restore.
