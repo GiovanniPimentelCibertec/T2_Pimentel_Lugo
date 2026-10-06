@@ -12,3 +12,6 @@ Evaluacion T2 - Tema 3: Control de versiones con Git y GitHub. Alumno: Jan Giova
 
 ## Control de cambios
 Se gestionaron cambios entre Working Directory, Staging Area y repositorio local usando git status, git diff, git add, git reset y git restore.
+
+## Gestion de ramas
+Rama utilizada: feature-pimentel. Se creo la clase ControlVersion_Pimentel.java que muestra en consola un mensaje identificando al estudiante.
