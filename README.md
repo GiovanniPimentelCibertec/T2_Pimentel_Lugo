@@ -6,3 +6,6 @@
 
 ## Descripcion
 Repositorio para practicar el control de versiones con Git y GitHub sobre un proyecto Java/Maven.
+
+## Evidencia T2
+Evaluacion T2 - Tema 3: Control de versiones con Git y GitHub. Alumno: Jan Giovanni Pimentel Lugo (I202336917).
